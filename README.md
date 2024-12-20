@@ -1,2 +1,2 @@
 # Amazon-Frontpage
- A responsive web page of Amazon Frontpage. Te
+ A responsive web page of Amazon Frontpage. 
